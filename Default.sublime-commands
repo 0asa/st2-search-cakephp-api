@@ -4,6 +4,10 @@
         "command": "cakephpapi_search_selection"
     },
     {
+        "caption": "CakePHP API: Hybrid Search Selection",
+        "command": "hybrid_search_selection"
+    },
+    {
         "caption": "CakePHP API: Search from Input",
         "command": "cakephpapi_search_from_input"
     }

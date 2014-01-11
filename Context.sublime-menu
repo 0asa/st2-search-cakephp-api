@@ -1,6 +1,6 @@
 [
     {
-        "command": "cakephpapi_search_selection",
-        "caption": "CakePHP API Search"
+        "command": "hybrid_search_selection",
+        "caption": "Hybrid CakePHP API Search"
     }
 ]
